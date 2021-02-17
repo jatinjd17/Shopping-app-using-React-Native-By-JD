@@ -1,0 +1,11 @@
+How to use
+---------
+
+You can use this attached file in two ways:
+
+1) Compare my code (mostly the .js code but of course you can also compare asset names etc) to yours. This should allow you to fix any errors you're getting whilst following along.
+
+2) Run my code
+For this, you can use my attachments as standalone projects. After extracting, you can navigate into them in your command prompt/ terminal (via the "cd" command) and run
+- npm install
+- npm start
